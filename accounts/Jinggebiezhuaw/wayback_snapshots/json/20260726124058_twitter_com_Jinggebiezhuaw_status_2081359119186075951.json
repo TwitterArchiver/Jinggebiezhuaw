@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2081300974975566262",
+    "created_at": "2026-07-26T12:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081359119186075951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885301875068829696",
+          "start": 0,
+          "username": "carl88187210579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081359119186075951",
+    "in_reply_to_user_id": "1885301875068829696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081300974975566262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carl88187210579 我操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2081300974975566262",
+        "created_at": "2026-07-26T12:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081359119186075951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885301875068829696",
+              "start": 0,
+              "username": "carl88187210579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081359119186075951",
+        "in_reply_to_user_id": "1885301875068829696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081300974975566262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carl88187210579 我操"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885301875068829696",
+        "conversation_id": "2081300974975566262",
+        "created_at": "2026-07-26T08:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081300974975566262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081300974975566262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2936,
+          "like_count": 23,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "说个暴论：\n\n读书和抽大麻没有区别，\n\n都是捧着死掉的植物产生幻觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。RC售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3507,
+          "following_count": 263,
+          "like_count": 1622,
+          "listed_count": 5,
+          "media_count": 182,
+          "tweet_count": 811
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-31T12:19:37.000Z",
+        "description": "BTC | Altcoins Market Insights • Narratives • Opportunities DYOR\n\n告别杠杆博弈，坚定现货囤币路线\n\n6万+区间持续定投，稳步冲0.5枚BTC",
+        "id": "1885301875068829696",
+        "location": "Nigeria",
+        "name": "卡尔",
+        "pinned_tweet_id": "2069011334776197570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911428702367301632/A_iyLl-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5610,
+          "following_count": 4435,
+          "like_count": 8914,
+          "listed_count": 18,
+          "media_count": 1168,
+          "tweet_count": 25872
+        },
+        "url": "",
+        "username": "carl88187210579",
+        "verified": true
+      }
+    ]
+  }
+}

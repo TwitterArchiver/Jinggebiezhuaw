@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2078130492764037512",
+    "created_at": "2026-07-19T20:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T21:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078934354844381681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1463718627287318528",
+          "start": 0,
+          "username": "Yuna061226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078934354844381681",
+    "in_reply_to_user_id": "1463718627287318528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078173611719016516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuna061226 伟大的话术"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2078130492764037512",
+        "created_at": "2026-07-19T20:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078934354844381681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1463718627287318528",
+              "start": 0,
+              "username": "Yuna061226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078934354844381681",
+        "in_reply_to_user_id": "1463718627287318528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078173611719016516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuna061226 伟大的话术"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463718627287318528",
+        "conversation_id": "2078130492764037512",
+        "created_at": "2026-07-17T17:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078173611719016516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078173611719016516",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078130492764037512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw 曲马多这个到底咋能开到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，黑长直性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3413,
+          "following_count": 468,
+          "like_count": 1296,
+          "listed_count": 5,
+          "media_count": 200,
+          "tweet_count": 803
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T03:58:24.000Z",
+        "description": "泛性恋 od 自残 心境障碍｜双相情感障碍混合型｜广泛性焦虑障碍｜C- PTSD/PTSD ｜边缘型人格障碍｜人格/现实解体｜认知障碍",
+        "id": "1463718627287318528",
+        "location": "距您≦100m",
+        "name": "Yionna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597513750055047169/mG4qlnA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3567,
+          "following_count": 48,
+          "like_count": 1355,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 1571
+        },
+        "url": "",
+        "username": "Yuna061226",
+        "verified": false
+      }
+    ]
+  }
+}

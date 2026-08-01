@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2079972520875397126",
+    "created_at": "2026-07-22T16:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079972520875397126"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079972520875397126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于从致幻蘑菇的偏执中硬挺过来了，浑身直冒汗。刚刚幻大到全世界变成一堆松籽了，自己敲了好久好久钵才稳住。\n今晚的超闪雷电是完全跟着我的劲儿走的很奇妙，夏天的夜晚总是让人觉得什么都有可能，遇见了一个很有净化效果的风铃，启灵药物是伟大的，余晖很温暖，甚至让人觉得就算岔道也并不可怕。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2079972520875397126",
+        "created_at": "2026-07-22T16:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079972520875397126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079972520875397126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于从致幻蘑菇的偏执中硬挺过来了，浑身直冒汗。刚刚幻大到全世界变成一堆松籽了，自己敲了好久好久钵才稳住。\n今晚的超闪雷电是完全跟着我的劲儿走的很奇妙，夏天的夜晚总是让人觉得什么都有可能，遇见了一个很有净化效果的风铃，启灵药物是伟大的，余晖很温暖，甚至让人觉得就算岔道也并不可怕。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "女，黑长直性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3459,
+          "following_count": 469,
+          "like_count": 1376,
+          "listed_count": 5,
+          "media_count": 203,
+          "tweet_count": 825
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

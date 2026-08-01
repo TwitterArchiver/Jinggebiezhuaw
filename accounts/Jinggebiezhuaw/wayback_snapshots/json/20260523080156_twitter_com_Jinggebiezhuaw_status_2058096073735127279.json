@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058096066587947008",
+        "3_2058096066583744512"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "conversation_id": "2058096073735127279",
+    "created_at": "2026-05-23T08:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058096073735127279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EWhkVUNkrA",
+          "end": 38,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2058096073735127279/photo/1",
+          "media_key": "3_2058096066587947008",
+          "start": 15,
+          "url": "https://t.co/EWhkVUNkrA"
+        },
+        {
+          "display_url": "pic.x.com/EWhkVUNkrA",
+          "end": 38,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2058096073735127279/photo/1",
+          "media_key": "3_2058096066583744512",
+          "start": 15,
+          "url": "https://t.co/EWhkVUNkrA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058096073735127279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我羊毛卷时期还是有说法的吧！ https://t.co/EWhkVUNkrA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2058096066587947008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_Td-KacAAO3QH.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2058096066583744512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_Td-JaUAAgCgS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058096066587947008",
+            "3_2058096066583744512"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2058096073735127279",
+        "created_at": "2026-05-23T08:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058096073735127279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWhkVUNkrA",
+              "end": 38,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2058096073735127279/photo/1",
+              "media_key": "3_2058096066587947008",
+              "start": 15,
+              "url": "https://t.co/EWhkVUNkrA"
+            },
+            {
+              "display_url": "pic.x.com/EWhkVUNkrA",
+              "end": 38,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2058096073735127279/photo/1",
+              "media_key": "3_2058096066583744512",
+              "start": 15,
+              "url": "https://t.co/EWhkVUNkrA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058096073735127279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我羊毛卷时期还是有说法的吧！ https://t.co/EWhkVUNkrA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 413,
+          "like_count": 931,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

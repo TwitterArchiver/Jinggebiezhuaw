@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2059715045118849214",
+    "created_at": "2026-05-28T09:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059937282053017833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1919465517829783552",
+          "start": 0,
+          "username": "KviSin_17"
+        },
+        {
+          "end": 22,
+          "id": "1862170831323099136",
+          "start": 11,
+          "username": "ZzzzYy0818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059937282053017833",
+    "in_reply_to_user_id": "1919465517829783552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059844582100340839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KviSin_17 @ZzzzYy0818 骚逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_2059844574131191808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYJugWbAAAMdBw.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2059715045118849214",
+        "created_at": "2026-05-28T09:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059937282053017833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919465517829783552",
+              "start": 0,
+              "username": "KviSin_17"
+            },
+            {
+              "end": 22,
+              "id": "1862170831323099136",
+              "start": 11,
+              "username": "ZzzzYy0818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059937282053017833",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059844582100340839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KviSin_17 @ZzzzYy0818 骚逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059844574131191808"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "conversation_id": "2059715045118849214",
+        "created_at": "2026-05-28T03:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059844582100340839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1862170831323099136",
+              "start": 0,
+              "username": "ZzzzYy0818"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4OWKYLlFCf",
+              "end": 40,
+              "expanded_url": "https://x.com/KviSin_17/status/2059844582100340839/photo/1",
+              "media_key": "3_2059844574131191808",
+              "start": 17,
+              "url": "https://t.co/4OWKYLlFCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059844582100340839",
+        "in_reply_to_user_id": "1862170831323099136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059715045118849214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZzzzYy0818 懂你意思 https://t.co/4OWKYLlFCf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2573,
+          "following_count": 416,
+          "like_count": 974,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士\n双相I型/低能量/欣赏躯体\n有什么想问的就在⬇️\nhttps://t.co/rL1u13JJo2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryuusuke65073",
+                "end": 52,
+                "expanded_url": "https://ngl.link/ryuusuke65073",
+                "start": 29,
+                "url": "https://t.co/rL1u13JJo2"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "name": "Акадо.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057145145183883264/W0Y-Ok86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 30,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 240
+        },
+        "username": "KviSin_17",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T16:25:11.000Z",
+        "description": "不知道啊 不知道不知道 不知道啊！\n\nhttps://t.co/fgC1IsYMFI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzzasen",
+                "end": 42,
+                "expanded_url": "https://ngl.link/zzzasen",
+                "start": 19,
+                "url": "https://t.co/fgC1IsYMFI"
+              }
+            ]
+          }
+        },
+        "id": "1862170831323099136",
+        "name": "小喵^-^",
+        "pinned_tweet_id": "2059685995478409402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862171031131078662/civ5b2gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 47,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 48
+        },
+        "username": "ZzzzYy0818",
+        "verified": false
+      }
+    ]
+  }
+}

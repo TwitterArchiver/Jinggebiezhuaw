@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056257952961773569"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056257469870219289",
+    "created_at": "2026-05-18T06:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056257959676834147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1816489710682030080",
+          "start": 0,
+          "username": "keaiiea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/owscYvuXiy",
+          "end": 38,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2056257959676834147/photo/1",
+          "media_key": "3_2056257952961773569",
+          "start": 15,
+          "url": "https://t.co/owscYvuXiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056257959676834147",
+    "in_reply_to_user_id": "1816489710682030080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056257469870219289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keaiiea 他逼迫的。 https://t.co/owscYvuXiy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056257952961773569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlLtrTbwAEWZja.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056257458260365312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlLQ4ZbUAAeWaI.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056257952961773569"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056257469870219289",
+        "created_at": "2026-05-18T06:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056257959676834147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816489710682030080",
+              "start": 0,
+              "username": "keaiiea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/owscYvuXiy",
+              "end": 38,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2056257959676834147/photo/1",
+              "media_key": "3_2056257952961773569",
+              "start": 15,
+              "url": "https://t.co/owscYvuXiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056257959676834147",
+        "in_reply_to_user_id": "1816489710682030080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056257469870219289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keaiiea 他逼迫的。 https://t.co/owscYvuXiy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056257458260365312"
+          ]
+        },
+        "author_id": "1816489710682030080",
+        "conversation_id": "2056257469870219289",
+        "created_at": "2026-05-18T06:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056257469870219289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OsulxQCEUR",
+              "end": 23,
+              "expanded_url": "https://x.com/keaiiea/status/2056257469870219289/photo/1",
+              "media_key": "3_2056257458260365312",
+              "start": 0,
+              "url": "https://t.co/OsulxQCEUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056257469870219289",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OsulxQCEUR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 391,
+          "like_count": 841,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 608
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea2",
+                "start": 0,
+                "url": "https://t.co/tkjVWJfXs4"
+              }
+            ]
+          }
+        },
+        "id": "1816489710682030080",
+        "name": "J0N45",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040970131346718720/QxA0zX1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 427,
+          "like_count": 27280,
+          "listed_count": 3,
+          "media_count": 475,
+          "tweet_count": 2555
+        },
+        "url": "https://t.co/tkjVWJfXs4",
+        "username": "keaiiea",
+        "verified": false
+      }
+    ]
+  }
+}

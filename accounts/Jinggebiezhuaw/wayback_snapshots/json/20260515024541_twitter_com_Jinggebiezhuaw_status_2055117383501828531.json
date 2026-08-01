@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055117377155792897",
+        "3_2055117377164251136"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055117383501828531",
+    "created_at": "2026-05-15T02:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T03:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055117383501828531"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YZXOKDRd5y",
+          "end": 55,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055117383501828531/photo/1",
+          "media_key": "3_2055117377155792897",
+          "start": 32,
+          "url": "https://t.co/YZXOKDRd5y"
+        },
+        {
+          "display_url": "pic.x.com/YZXOKDRd5y",
+          "end": 55,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055117383501828531/photo/1",
+          "media_key": "3_2055117377164251136",
+          "start": 32,
+          "url": "https://t.co/YZXOKDRd5y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055117383501828531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家看好了Jonas这个男婊子下个月要是没给我爆金币我就四爱他 https://t.co/YZXOKDRd5y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055117377155792897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIU-XbUagAENQxF.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055117377164251136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIU-XbWbkAAb6Bj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055117377155792897",
+            "3_2055117377164251136"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055117383501828531",
+        "created_at": "2026-05-15T02:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055117383501828531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZXOKDRd5y",
+              "end": 55,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055117383501828531/photo/1",
+              "media_key": "3_2055117377155792897",
+              "start": 32,
+              "url": "https://t.co/YZXOKDRd5y"
+            },
+            {
+              "display_url": "pic.x.com/YZXOKDRd5y",
+              "end": 55,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055117383501828531/photo/1",
+              "media_key": "3_2055117377164251136",
+              "start": 32,
+              "url": "https://t.co/YZXOKDRd5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055117383501828531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家看好了Jonas这个男婊子下个月要是没给我爆金币我就四爱他 https://t.co/YZXOKDRd5y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2401,
+          "following_count": 368,
+          "like_count": 814,
+          "listed_count": 5,
+          "media_count": 173,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

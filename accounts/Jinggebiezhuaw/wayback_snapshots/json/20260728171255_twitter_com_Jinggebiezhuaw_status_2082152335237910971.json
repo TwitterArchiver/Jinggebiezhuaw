@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2082138539005993296",
+    "created_at": "2026-07-28T17:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082152335237910971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1506291557233999877",
+          "start": 0,
+          "username": "hazuki8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082152335237910971",
+    "in_reply_to_user_id": "1506291557233999877",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082138539005993296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hazuki8964 omg…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082138523201884160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOU99Iia0AAXVPH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082138523197685760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOU99IhawAAIU9T.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2082138539005993296",
+        "created_at": "2026-07-28T17:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082152335237910971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1506291557233999877",
+              "start": 0,
+              "username": "hazuki8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082152335237910971",
+        "in_reply_to_user_id": "1506291557233999877",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082138539005993296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hazuki8964 omg…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082138523201884160",
+            "3_2082138523197685760"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "conversation_id": "2082138539005993296",
+        "created_at": "2026-07-28T16:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082138539005993296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwwHWCcPvx",
+              "end": 37,
+              "expanded_url": "https://x.com/hazuki8964/status/2082138539005993296/photo/1",
+              "media_key": "3_2082138523201884160",
+              "start": 14,
+              "url": "https://t.co/zwwHWCcPvx"
+            },
+            {
+              "display_url": "pic.x.com/zwwHWCcPvx",
+              "end": 37,
+              "expanded_url": "https://x.com/hazuki8964/status/2082138539005993296/photo/1",
+              "media_key": "3_2082138523197685760",
+              "start": 14,
+              "url": "https://t.co/zwwHWCcPvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082138539005993296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 777,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我拼了六个小时小鸡排。。。 https://t.co/zwwHWCcPvx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我是奥克萨娜，女，黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。RC售卖/化学物质使用咨询💊。魔界大门入口：@Oksana222RC\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Oksana222RC"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3533,
+          "following_count": 266,
+          "like_count": 1747,
+          "listed_count": 5,
+          "media_count": 186,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "永遠是深夜有多好。@yoyori_01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "yoyori_01"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "location": "爱胡TV",
+        "name": "⁺♡hazuki",
+        "pinned_tweet_id": "1959290971318837385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956555816674459648/Nbbrv0Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8490,
+          "following_count": 736,
+          "like_count": 19866,
+          "listed_count": 15,
+          "media_count": 402,
+          "tweet_count": 3245
+        },
+        "url": "",
+        "username": "hazuki8964",
+        "verified": false
+      }
+    ]
+  }
+}

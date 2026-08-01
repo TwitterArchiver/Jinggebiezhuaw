@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055894827049615360",
+        "3_2055894827024429056",
+        "3_2055894827020304384",
+        "3_2055894827049660417"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "conversation_id": "2055894834972610603",
+    "created_at": "2026-05-17T06:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055894834972610603"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q0ZyM09ZQT",
+          "end": 40,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055894834972610603/photo/1",
+          "media_key": "3_2055894827049615360",
+          "start": 17,
+          "url": "https://t.co/q0ZyM09ZQT"
+        },
+        {
+          "display_url": "pic.x.com/q0ZyM09ZQT",
+          "end": 40,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055894834972610603/photo/1",
+          "media_key": "3_2055894827024429056",
+          "start": 17,
+          "url": "https://t.co/q0ZyM09ZQT"
+        },
+        {
+          "display_url": "pic.x.com/q0ZyM09ZQT",
+          "end": 40,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055894834972610603/photo/1",
+          "media_key": "3_2055894827020304384",
+          "start": 17,
+          "url": "https://t.co/q0ZyM09ZQT"
+        },
+        {
+          "display_url": "pic.x.com/q0ZyM09ZQT",
+          "end": 40,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055894834972610603/photo/1",
+          "media_key": "3_2055894827049660417",
+          "start": 17,
+          "url": "https://t.co/q0ZyM09ZQT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055894834972610603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没人觉得很帅吗，这种古早日本男。 https://t.co/q0ZyM09ZQT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055894827049615360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgBc93bAAA_OIp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 778,
+        "media_key": "3_2055894827024429056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgBc9xasAAmUJp.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1442,
+        "media_key": "3_2055894827020304384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgBc9wbwAAaGjj.jpg",
+        "width": 960
+      },
+      {
+        "height": 1794,
+        "media_key": "3_2055894827049660417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgBc93bsAEmTbH.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055894827049615360",
+            "3_2055894827024429056",
+            "3_2055894827020304384",
+            "3_2055894827049660417"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2055894834972610603",
+        "created_at": "2026-05-17T06:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055894834972610603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0ZyM09ZQT",
+              "end": 40,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055894834972610603/photo/1",
+              "media_key": "3_2055894827049615360",
+              "start": 17,
+              "url": "https://t.co/q0ZyM09ZQT"
+            },
+            {
+              "display_url": "pic.x.com/q0ZyM09ZQT",
+              "end": 40,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055894834972610603/photo/1",
+              "media_key": "3_2055894827024429056",
+              "start": 17,
+              "url": "https://t.co/q0ZyM09ZQT"
+            },
+            {
+              "display_url": "pic.x.com/q0ZyM09ZQT",
+              "end": 40,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055894834972610603/photo/1",
+              "media_key": "3_2055894827020304384",
+              "start": 17,
+              "url": "https://t.co/q0ZyM09ZQT"
+            },
+            {
+              "display_url": "pic.x.com/q0ZyM09ZQT",
+              "end": 40,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055894834972610603/photo/1",
+              "media_key": "3_2055894827049660417",
+              "start": 17,
+              "url": "https://t.co/q0ZyM09ZQT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055894834972610603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得很帅吗，这种古早日本男。 https://t.co/q0ZyM09ZQT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 378,
+          "like_count": 827,
+          "listed_count": 5,
+          "media_count": 177,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2081629235631079688",
+    "created_at": "2026-07-27T13:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081729115720466917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1587693577588846592",
+          "start": 0,
+          "username": "XLapin9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081729115720466917",
+    "in_reply_to_user_id": "1587693577588846592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081629235631079688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XLapin9 哇塞！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081629228328759296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONuwRSbMAAourS.jpg",
+        "width": 1261
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2081629235631079688",
+        "created_at": "2026-07-27T13:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081729115720466917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1587693577588846592",
+              "start": 0,
+              "username": "XLapin9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081729115720466917",
+        "in_reply_to_user_id": "1587693577588846592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081629235631079688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XLapin9 哇塞！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081629228328759296"
+          ]
+        },
+        "author_id": "1587693577588846592",
+        "conversation_id": "2081629235631079688",
+        "created_at": "2026-07-27T06:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081629235631079688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4X2Cud5TYS",
+              "end": 116,
+              "expanded_url": "https://x.com/XLapin9/status/2081629235631079688/photo/1",
+              "media_key": "3_2081629228328759296",
+              "start": 93,
+              "url": "https://t.co/4X2Cud5TYS"
+            },
+            {
+              "display_url": "x.com/xlapin9/status…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/xlapin9/status/2081615587340599344",
+              "start": 117,
+              "url": "https://t.co/PkqsDQmtiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081629235631079688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1542,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081615587340599344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我决定展示一些收藏品..\n（其实下面还有一层，国内精二除了注射剂差不多都齐了\nps：全是合法获取的，正规医生处方，试剂们也是正规公司购入的包括n2o也是有威化资质的…好孩不要模仿… https://t.co/4X2Cud5TYS https://t.co/PkqsDQmtiN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我是奥克萨娜，女，黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。RC售卖/化学物质使用咨询💊。魔界大门入口：@Oksana222RC\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Oksana222RC"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3510,
+          "following_count": 264,
+          "like_count": 1694,
+          "listed_count": 5,
+          "media_count": 186,
+          "tweet_count": 831
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-02T06:30:28.000Z",
+        "description": "漸変色的枝桠 生出水母花",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lapin9.top",
+                "end": 23,
+                "expanded_url": "http://lapin9.top",
+                "start": 0,
+                "url": "https://t.co/4ZFuRkKD5q"
+              }
+            ]
+          }
+        },
+        "id": "1587693577588846592",
+        "location": "16h 29m 24s、−26° 25′ 55″",
+        "name": "👁️‍🗨️Lapin9",
+        "pinned_tweet_id": "1926811352158408706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009969593901821958/QFGri68L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 62,
+          "like_count": 19,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/4ZFuRkKD5q",
+        "username": "XLapin9",
+        "verified": false
+      }
+    ]
+  }
+}

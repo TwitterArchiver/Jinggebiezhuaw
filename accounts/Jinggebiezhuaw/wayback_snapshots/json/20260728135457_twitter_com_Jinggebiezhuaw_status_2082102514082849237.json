@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081961773880758272"
+      ],
+      "media_source_tweet_id": [
+        "2081961787751362615"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "conversation_id": "2082102514082849237",
+    "created_at": "2026-07-28T13:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082102514082849237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2065335080265093121",
+          "start": 3,
+          "username": "MaoYe119"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Eu8K8v9NIw",
+          "end": 79,
+          "expanded_url": "https://x.com/MaoYe119/status/2081961787751362615/photo/1",
+          "media_key": "3_2081961773880758272",
+          "start": 56,
+          "url": "https://t.co/Eu8K8v9NIw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082102514082849237",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081961787751362615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaoYe119: 诶呀山本殺し那个号似了...收不到私信，有事用这个...眼熟我，请帮我转转，感谢！ https://t.co/Eu8K8v9NIw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2081961773880758272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSdM-Aa0AAu5G2.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081961773880758272"
+          ]
+        },
+        "author_id": "2065335080265093121",
+        "conversation_id": "2081961787751362615",
+        "created_at": "2026-07-28T04:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081961787751362615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eu8K8v9NIw",
+              "end": 65,
+              "expanded_url": "https://x.com/MaoYe119/status/2081961787751362615/photo/1",
+              "media_key": "3_2081961773880758272",
+              "start": 42,
+              "url": "https://t.co/Eu8K8v9NIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081961787751362615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1755,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "诶呀山本殺し那个号似了...收不到私信，有事用这个...眼熟我，请帮我转转，感谢！ https://t.co/Eu8K8v9NIw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081961773880758272"
+          ],
+          "media_source_tweet_id": [
+            "2081961787751362615"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2082102514082849237",
+        "created_at": "2026-07-28T13:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082102514082849237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2065335080265093121",
+              "start": 3,
+              "username": "MaoYe119"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eu8K8v9NIw",
+              "end": 79,
+              "expanded_url": "https://x.com/MaoYe119/status/2081961787751362615/photo/1",
+              "media_key": "3_2081961773880758272",
+              "start": 56,
+              "url": "https://t.co/Eu8K8v9NIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082102514082849237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081961787751362615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaoYe119: 诶呀山本殺し那个号似了...收不到私信，有事用这个...眼熟我，请帮我转转，感谢！ https://t.co/Eu8K8v9NIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我是奥克萨娜，女，黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。RC售卖/化学物质使用咨询💊。魔界大门入口：@Oksana222RC\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Oksana222RC"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3534,
+          "following_count": 267,
+          "like_count": 1720,
+          "listed_count": 5,
+          "media_count": 186,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-12T07:29:46.000Z",
+        "description": "大号山本殺し@Koroshiiiiiii（已亖）\n小杀，第二人格\n需要精神活性物质请私信！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/agFB28vmdi"
+              }
+            ]
+          }
+        },
+        "id": "2065335080265093121",
+        "location": "✟升天✟",
+        "name": "猫冶.",
+        "pinned_tweet_id": "2081961787751362615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 82,
+          "like_count": 439,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/agFB28vmdi",
+        "username": "MaoYe119",
+        "verified": false
+      }
+    ]
+  }
+}

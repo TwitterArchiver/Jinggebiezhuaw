@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2074024847789986053",
+    "created_at": "2026-07-06T10:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074085796265726370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1737047807595511808",
+          "start": 0,
+          "username": "HeseriJude49494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074085796265726370",
+    "in_reply_to_user_id": "1737047807595511808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074054398821773662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeseriJude49494 这段话我怎么没看懂呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2074024847789986053",
+        "created_at": "2026-07-06T10:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074085796265726370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1737047807595511808",
+              "start": 0,
+              "username": "HeseriJude49494"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074085796265726370",
+        "in_reply_to_user_id": "1737047807595511808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074054398821773662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeseriJude49494 这段话我怎么没看懂呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737047807595511808",
+        "conversation_id": "2074024847789986053",
+        "created_at": "2026-07-06T08:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074054398821773662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074054398821773662",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074024847789986053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw 欧法克，发童年照已经是临终闪回了吗..虽然这个世界很肮脏凶险，你在LSD看到了什么我也不知道还有没有什么眷恋的我也管不着…你闺蜜说那是好的哭你突然怪异狰狞的假温柔很震撼我深深共情..也许这个世界没有尼需要的那种温柔从童年开始…可能Fentaly能给你吧那种Fucked up挺懂的，可能男人给不了的解脱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3295,
+          "following_count": 462,
+          "like_count": 1163,
+          "listed_count": 5,
+          "media_count": 186,
+          "tweet_count": 738
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T09:50:58.000Z",
+        "description": "hi，I’m Jude , 紫色的灵魂，bi & bipolar, 魔法师🧙， wizard，DSD回粉👋👋",
+        "id": "1737047807595511808",
+        "location": "Chengdu ",
+        "name": "Jude_Ho🔮✨❤️💐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069292720364081152/zu9w2ooj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 559,
+          "like_count": 1579,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1795
+        },
+        "url": "",
+        "username": "HeseriJude49494",
+        "verified": true
+      }
+    ]
+  }
+}

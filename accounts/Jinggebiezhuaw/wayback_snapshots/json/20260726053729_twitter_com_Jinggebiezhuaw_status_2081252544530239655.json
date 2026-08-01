@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2081011104818573346",
+    "created_at": "2026-07-26T05:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081252544530239655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "850718260362321924",
+          "start": 0,
+          "username": "ainikamal1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081252544530239655",
+    "in_reply_to_user_id": "850718260362321924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081103148094193798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ainikamal1 哈哈哈哈哈哈我都删掉了宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2081011104818573346",
+        "created_at": "2026-07-26T05:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081252544530239655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "850718260362321924",
+              "start": 0,
+              "username": "ainikamal1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081252544530239655",
+        "in_reply_to_user_id": "850718260362321924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081103148094193798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ainikamal1 哈哈哈哈哈哈我都删掉了宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "850718260362321924",
+        "conversation_id": "2081011104818573346",
+        "created_at": "2026-07-25T19:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081103148094193798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081103148094193798",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081011104818573346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw 那个看完的用户，你整理一下私发给我，我欣赏一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "女，黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。RC售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3503,
+          "following_count": 260,
+          "like_count": 1556,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-08T14:33:33.000Z",
+        "description": "她们可以慕强 看脸 爱权 拜金也可以看不起同龄人年少时的单纯\n\n避难所 @Ne1lHeyw00d",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Ne1lHeyw00d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/l1junha0",
+                "end": 23,
+                "expanded_url": "http://t.me/l1junha0",
+                "start": 0,
+                "url": "https://t.co/AKlKxiJUjl"
+              }
+            ]
+          }
+        },
+        "id": "850718260362321924",
+        "location": "四海为家",
+        "name": "纯真双眼",
+        "pinned_tweet_id": "2081133013820477446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075826664219815936/4cdNmJ_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 27,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/AKlKxiJUjl",
+        "username": "ainikamal1",
+        "verified": false
+      }
+    ]
+  }
+}

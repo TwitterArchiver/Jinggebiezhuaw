@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081705880102584320"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "conversation_id": "2081705885718761930",
+    "created_at": "2026-07-27T11:38:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:38:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081705885718761930"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bUzb2ajUUc",
+          "end": 33,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2081705885718761930/photo/1",
+          "media_key": "3_2081705880102584320",
+          "start": 10,
+          "url": "https://t.co/bUzb2ajUUc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081705885718761930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "曲马多和…弥勒佛？ https://t.co/bUzb2ajUUc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081705880102584320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOO0d_ZbQAACfs_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081705880102584320"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2081705885718761930",
+        "created_at": "2026-07-27T11:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081705885718761930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bUzb2ajUUc",
+              "end": 33,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2081705885718761930/photo/1",
+              "media_key": "3_2081705880102584320",
+              "start": 10,
+              "url": "https://t.co/bUzb2ajUUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081705885718761930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "曲马多和…弥勒佛？ https://t.co/bUzb2ajUUc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我是奥克萨娜，女，黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。RC售卖/化学物质使用咨询💊。魔界大门入口：@Oksana222RC\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Oksana222RC"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3510,
+          "following_count": 264,
+          "like_count": 1677,
+          "listed_count": 5,
+          "media_count": 184,
+          "tweet_count": 825
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": true
+      }
+    ]
+  }
+}

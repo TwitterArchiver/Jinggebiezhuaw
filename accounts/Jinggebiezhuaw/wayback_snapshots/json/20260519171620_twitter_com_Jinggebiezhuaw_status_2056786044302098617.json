@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2056786044302098617",
+    "created_at": "2026-05-19T17:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056786044302098617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/coynzh512364/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/coynzh512364/status/2056454263291961736",
+          "start": 15,
+          "url": "https://t.co/0V1YdNfmnA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056786044302098617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056454263291961736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本人啊。。。我本人啊。。。 https://t.co/0V1YdNfmnA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2056786044302098617",
+        "created_at": "2026-05-19T17:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056786044302098617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coynzh512364/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/coynzh512364/status/2056454263291961736",
+              "start": 15,
+              "url": "https://t.co/0V1YdNfmnA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056786044302098617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056454263291961736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本人啊。。。我本人啊。。。 https://t.co/0V1YdNfmnA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646158513540874242",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2056454263291961736",
+        "created_at": "2026-05-18T19:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056454263291961736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056454263291961736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 464,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些引导型恋人本身也不见得多健康\n他哄着你长出血肉\n耐心地告诉你你值得一切美好\n手牵着手把你领到幸福的边缘\n当你兴冲冲地打算拉他一起进去的时候\n他温柔地摇摇头\n说你自己去吧\n他还是没有办法幸福。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2517,
+          "following_count": 407,
+          "like_count": 884,
+          "listed_count": 4,
+          "media_count": 191,
+          "tweet_count": 657
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T14:29:25.000Z",
+        "description": "梦想是拯救世界🇳🇿只回感兴趣的私信 碎碎念日常 喜欢鲨鱼肌 4i/brat 打游戏厉害的请带我 请带口令私信我 不回没有意义的男的私信性压抑滚远点",
+        "id": "1646158513540874242",
+        "location": "1.88km",
+        "name": "脆皮烤鸭𐃆 ˒˒",
+        "pinned_tweet_id": "1882746843945439662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055537564313178112/woEaVH89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 231,
+          "like_count": 3964,
+          "listed_count": 4,
+          "media_count": 581,
+          "tweet_count": 2791
+        },
+        "username": "coynzh512364",
+        "verified": false
+      }
+    ]
+  }
+}

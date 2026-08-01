@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2079979124354085366",
+    "created_at": "2026-07-23T09:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080216621088657524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033892007937249284",
+          "start": 0,
+          "username": "Overdose_Aether"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080216621088657524",
+    "in_reply_to_user_id": "2033892007937249284",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080070932786552958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_Aether 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2079979124354085366",
+        "created_at": "2026-07-23T09:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080216621088657524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033892007937249284",
+              "start": 0,
+              "username": "Overdose_Aether"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080216621088657524",
+        "in_reply_to_user_id": "2033892007937249284",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080070932786552958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_Aether 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033892007937249284",
+        "conversation_id": "2079979124354085366",
+        "created_at": "2026-07-22T23:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080070932786552958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080070932786552958",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079979124354085366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw 迷幻剂是对的🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。RC售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3473,
+          "following_count": 469,
+          "like_count": 1377,
+          "listed_count": 5,
+          "media_count": 204,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T13:04:15.000Z",
+        "description": "小糖铺子，分享好吃的糖🍬 tg分享频道https://t.co/oEbYzOtKnL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/AetherLAB01",
+                "end": 42,
+                "expanded_url": "https://t.me/AetherLAB01",
+                "start": 19,
+                "url": "https://t.co/oEbYzOtKnL"
+              }
+            ]
+          }
+        },
+        "id": "2033892007937249284",
+        "location": "Carina",
+        "name": "⚛️Aether 🅻🅰🅱🍬",
+        "pinned_tweet_id": "2079910717755675083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070200170030215168/CGg-EHDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 72,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "Overdose_Aether",
+        "verified": false
+      }
+    ]
+  }
+}

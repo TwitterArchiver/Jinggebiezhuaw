@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2059004151196225939",
+    "created_at": "2026-05-25T20:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T21:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059004151196225939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/klgj8888/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/klgj8888/status/2058343160766660968",
+          "start": 13,
+          "url": "https://t.co/32U76g5riy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059004151196225939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058343160766660968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我心选哥做爱不说话咋办。 https://t.co/32U76g5riy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2059004151196225939",
+        "created_at": "2026-05-25T20:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T21:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059004151196225939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/klgj8888/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/klgj8888/status/2058343160766660968",
+              "start": 13,
+              "url": "https://t.co/32U76g5riy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059004151196225939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058343160766660968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我心选哥做爱不说话咋办。 https://t.co/32U76g5riy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521851592827310080",
+        "conversation_id": "2058343160766660968",
+        "created_at": "2026-05-24T00:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058343160766660968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058343160766660968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 149906,
+          "like_count": 1697,
+          "quote_count": 6,
+          "reply_count": 258,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "会做爱的男人床上床下用的是两套声音系统你们懂吗。日常声音一般但是到了床上好听的要死，特别有男人味。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2535,
+          "following_count": 411,
+          "like_count": 941,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 697
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T13:58:05.000Z",
+        "description": "敢爱敢恨敢操逼｜@Lu_lu4Xi1是小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "Lu_lu4Xi1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw01.damoplane.one/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw01.damoplane.one/#/register?code=ATyPkgkN",
+                "start": 0,
+                "url": "https://t.co/bYRS9DsqKN"
+              }
+            ]
+          }
+        },
+        "id": "1521851592827310080",
+        "location": "好用vpn👉🏻",
+        "name": "快乐冠军",
+        "pinned_tweet_id": "2024768617951510925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005279521214517248/PNZJ9--f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203640,
+          "following_count": 745,
+          "like_count": 15643,
+          "listed_count": 398,
+          "media_count": 737,
+          "tweet_count": 8389
+        },
+        "url": "https://t.co/bYRS9DsqKN",
+        "username": "KLGJ8888",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2080529513390469252",
+    "created_at": "2026-07-24T08:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080571268836086015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1163852494205644801",
+          "start": 0,
+          "username": "kakyouin799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080571268836086015",
+    "in_reply_to_user_id": "1163852494205644801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080529513390469252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakyouin799 老公…🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080529499910012928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-GjprbgAAeU8r.jpg",
+        "width": 1150
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080529499947773952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-Gjp0bsAAal_h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2080529513390469252",
+        "created_at": "2026-07-24T08:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080571268836086015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1163852494205644801",
+              "start": 0,
+              "username": "kakyouin799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080571268836086015",
+        "in_reply_to_user_id": "1163852494205644801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080529513390469252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakyouin799 老公…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080529499910012928",
+            "3_2080529499947773952"
+          ]
+        },
+        "author_id": "1163852494205644801",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080529513390469252",
+        "created_at": "2026-07-24T05:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080529513390469252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/42ujcLYiDv",
+              "end": 31,
+              "expanded_url": "https://x.com/kakyouin799/status/2080529513390469252/photo/1",
+              "media_key": "3_2080529499910012928",
+              "start": 8,
+              "url": "https://t.co/42ujcLYiDv"
+            },
+            {
+              "display_url": "pic.x.com/42ujcLYiDv",
+              "end": 31,
+              "expanded_url": "https://x.com/kakyouin799/status/2080529513390469252/photo/1",
+              "media_key": "3_2080529499947773952",
+              "start": 8,
+              "url": "https://t.co/42ujcLYiDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080529513390469252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吃吃吃吃吃吃 https://t.co/42ujcLYiDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。RC售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3488,
+          "following_count": 260,
+          "like_count": 1451,
+          "listed_count": 5,
+          "media_count": 206,
+          "tweet_count": 850
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-20T16:37:23.000Z",
+        "description": "直男 别搞乱七八糟的",
+        "id": "1163852494205644801",
+        "name": "Arrivederci",
+        "pinned_tweet_id": "1890421402928337121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1511366353722265601/K8TLWwUq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11451,
+          "following_count": 546,
+          "like_count": 1539,
+          "listed_count": 23,
+          "media_count": 212,
+          "tweet_count": 2270
+        },
+        "url": "",
+        "username": "kakyouin799",
+        "verified": false
+      }
+    ]
+  }
+}

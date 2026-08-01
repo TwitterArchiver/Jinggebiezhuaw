@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2045479448489918786",
+    "created_at": "2026-04-22T10:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046892476301185207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1587790416057077760",
+          "start": 0,
+          "username": "musk_xxl"
+        },
+        {
+          "end": 20,
+          "id": "1142350100",
+          "start": 10,
+          "username": "foo110022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046892476301185207",
+    "in_reply_to_user_id": "1587790416057077760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046371202529432053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@musk_xxl @foo110022 笑死我了你认识他啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2045479448489918786",
+        "created_at": "2026-04-22T10:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046892476301185207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1587790416057077760",
+              "start": 0,
+              "username": "musk_xxl"
+            },
+            {
+              "end": 20,
+              "id": "1142350100",
+              "start": 10,
+              "username": "foo110022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046892476301185207",
+        "in_reply_to_user_id": "1587790416057077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046371202529432053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@musk_xxl @foo110022 笑死我了你认识他啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587790416057077760",
+        "conversation_id": "2045479448489918786",
+        "created_at": "2026-04-20T23:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T00:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046371202529432053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1142350100",
+              "start": 0,
+              "username": "foo110022"
+            },
+            {
+              "end": 26,
+              "id": "1830934925769613334",
+              "start": 11,
+              "username": "Jinggebiezhuaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046371202529432053",
+        "in_reply_to_user_id": "1142350100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045494655035596858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foo110022 @Jinggebiezhuaw 神踏马抽thc，第一次听到这个说法。你还是还钱去吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 368,
+          "like_count": 812,
+          "listed_count": 4,
+          "media_count": 168,
+          "tweet_count": 545
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T12:55:22.000Z",
+        "description": "业余的。\n不要对我抱有很大的期待。",
+        "id": "1587790416057077760",
+        "name": "Purify",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967846391587409920/fxizcFQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 83,
+          "like_count": 1064,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 164
+        },
+        "username": "musk_xxl",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-02T12:33:16.000Z",
+        "description": "白天解工作任務🥵夜裡解成就😎健身是修身～約是修魂 。直男限定，不溫柔，但會記得妳喘的聲音🤫",
+        "id": "1142350100",
+        "location": "Tainan",
+        "name": "壞亞特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892876474484740101/7coQkHv9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 199,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 419
+        },
+        "username": "foo110022",
+        "verified": false
+      }
+    ]
+  }
+}

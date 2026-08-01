@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077349028879323136",
+        "3_2077349028849975296"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077349035338551492",
+    "created_at": "2026-07-15T11:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077349035338551492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kxWqA7TSie",
+          "end": 88,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2077349035338551492/photo/1",
+          "media_key": "3_2077349028879323136",
+          "start": 65,
+          "url": "https://t.co/kxWqA7TSie"
+        },
+        {
+          "display_url": "pic.x.com/kxWqA7TSie",
+          "end": 88,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2077349035338551492/photo/1",
+          "media_key": "3_2077349028849975296",
+          "start": 65,
+          "url": "https://t.co/kxWqA7TSie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077349035338551492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "时隔很久Oksana终于开工了！这次搓出一些非常非常牛逼的物质，发两个最牛逼的试试水，有需要请联系私信或主页telegram～～ https://t.co/kxWqA7TSie"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1754,
+        "media_key": "3_2077349028879323136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ573za0AAWm_u.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1878,
+        "media_key": "3_2077349028849975296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ573sbAAAB8Cg.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077349028879323136",
+            "3_2077349028849975296"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077349035338551492",
+        "created_at": "2026-07-15T11:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077349035338551492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxWqA7TSie",
+              "end": 88,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2077349035338551492/photo/1",
+              "media_key": "3_2077349028879323136",
+              "start": 65,
+              "url": "https://t.co/kxWqA7TSie"
+            },
+            {
+              "display_url": "pic.x.com/kxWqA7TSie",
+              "end": 88,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2077349035338551492/photo/1",
+              "media_key": "3_2077349028849975296",
+              "start": 65,
+              "url": "https://t.co/kxWqA7TSie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077349035338551492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时隔很久Oksana终于开工了！这次搓出一些非常非常牛逼的物质，发两个最牛逼的试试水，有需要请联系私信或主页telegram～～ https://t.co/kxWqA7TSie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "女，黑长直性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3357,
+          "following_count": 465,
+          "like_count": 1219,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 771
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050891275893981184",
+        "3_2050891275914944512",
+        "3_2050891275885527040",
+        "3_2050891275889680384"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050891284542632041",
+    "created_at": "2026-05-03T10:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T11:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050891284542632041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JR5CbDDA6v",
+          "end": 35,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2050891284542632041/photo/1",
+          "media_key": "3_2050891275893981184",
+          "start": 12,
+          "url": "https://t.co/JR5CbDDA6v"
+        },
+        {
+          "display_url": "pic.x.com/JR5CbDDA6v",
+          "end": 35,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2050891284542632041/photo/1",
+          "media_key": "3_2050891275914944512",
+          "start": 12,
+          "url": "https://t.co/JR5CbDDA6v"
+        },
+        {
+          "display_url": "pic.x.com/JR5CbDDA6v",
+          "end": 35,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2050891284542632041/photo/1",
+          "media_key": "3_2050891275885527040",
+          "start": 12,
+          "url": "https://t.co/JR5CbDDA6v"
+        },
+        {
+          "display_url": "pic.x.com/JR5CbDDA6v",
+          "end": 35,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2050891284542632041/photo/1",
+          "media_key": "3_2050891275889680384",
+          "start": 12,
+          "url": "https://t.co/JR5CbDDA6v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050891284542632041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给恁看点俺cos的格温 https://t.co/JR5CbDDA6v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2050891275893981184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHY6v9SbwAAnBNU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2050891275914944512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHY6v9XboAAS3rK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050891275885527040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHY6v9QawAA_-Kz.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050891275889680384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHY6v9RaIAAT-bW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050891275893981184",
+            "3_2050891275914944512",
+            "3_2050891275885527040",
+            "3_2050891275889680384"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050891284542632041",
+        "created_at": "2026-05-03T10:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050891284542632041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JR5CbDDA6v",
+              "end": 35,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2050891284542632041/photo/1",
+              "media_key": "3_2050891275893981184",
+              "start": 12,
+              "url": "https://t.co/JR5CbDDA6v"
+            },
+            {
+              "display_url": "pic.x.com/JR5CbDDA6v",
+              "end": 35,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2050891284542632041/photo/1",
+              "media_key": "3_2050891275914944512",
+              "start": 12,
+              "url": "https://t.co/JR5CbDDA6v"
+            },
+            {
+              "display_url": "pic.x.com/JR5CbDDA6v",
+              "end": 35,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2050891284542632041/photo/1",
+              "media_key": "3_2050891275885527040",
+              "start": 12,
+              "url": "https://t.co/JR5CbDDA6v"
+            },
+            {
+              "display_url": "pic.x.com/JR5CbDDA6v",
+              "end": 35,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2050891284542632041/photo/1",
+              "media_key": "3_2050891275889680384",
+              "start": 12,
+              "url": "https://t.co/JR5CbDDA6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050891284542632041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给恁看点俺cos的格温 https://t.co/JR5CbDDA6v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 368,
+          "like_count": 812,
+          "listed_count": 4,
+          "media_count": 170,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

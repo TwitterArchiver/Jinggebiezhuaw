@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071619244593496065",
+        "3_2071619244597641216",
+        "3_2071619244572422144",
+        "3_2071619244572459008"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "conversation_id": "2071619287446700459",
+    "created_at": "2026-06-29T15:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071619287446700459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/thChhh8Sas",
+          "end": 29,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2071619287446700459/photo/1",
+          "media_key": "3_2071619244593496065",
+          "start": 6,
+          "url": "https://t.co/thChhh8Sas"
+        },
+        {
+          "display_url": "pic.x.com/thChhh8Sas",
+          "end": 29,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2071619287446700459/photo/1",
+          "media_key": "3_2071619244597641216",
+          "start": 6,
+          "url": "https://t.co/thChhh8Sas"
+        },
+        {
+          "display_url": "pic.x.com/thChhh8Sas",
+          "end": 29,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2071619287446700459/photo/1",
+          "media_key": "3_2071619244572422144",
+          "start": 6,
+          "url": "https://t.co/thChhh8Sas"
+        },
+        {
+          "display_url": "pic.x.com/thChhh8Sas",
+          "end": 29,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2071619287446700459/photo/1",
+          "media_key": "3_2071619244572459008",
+          "start": 6,
+          "url": "https://t.co/thChhh8Sas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071619287446700459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "热死在马场 https://t.co/thChhh8Sas"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071619244593496065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_euh_bwAEnRUi.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071619244597641216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_euiAbAAAnpFR.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071619244572422144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_euh6aMAAyMsb.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071619244572459008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_euh6awAAjdXz.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071619244593496065",
+            "3_2071619244597641216",
+            "3_2071619244572422144",
+            "3_2071619244572459008"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2071619287446700459",
+        "created_at": "2026-06-29T15:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071619287446700459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/thChhh8Sas",
+              "end": 29,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2071619287446700459/photo/1",
+              "media_key": "3_2071619244593496065",
+              "start": 6,
+              "url": "https://t.co/thChhh8Sas"
+            },
+            {
+              "display_url": "pic.x.com/thChhh8Sas",
+              "end": 29,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2071619287446700459/photo/1",
+              "media_key": "3_2071619244597641216",
+              "start": 6,
+              "url": "https://t.co/thChhh8Sas"
+            },
+            {
+              "display_url": "pic.x.com/thChhh8Sas",
+              "end": 29,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2071619287446700459/photo/1",
+              "media_key": "3_2071619244572422144",
+              "start": 6,
+              "url": "https://t.co/thChhh8Sas"
+            },
+            {
+              "display_url": "pic.x.com/thChhh8Sas",
+              "end": 29,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2071619287446700459/photo/1",
+              "media_key": "3_2071619244572459008",
+              "start": 6,
+              "url": "https://t.co/thChhh8Sas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071619287446700459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "热死在马场 https://t.co/thChhh8Sas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 449,
+          "like_count": 1144,
+          "listed_count": 5,
+          "media_count": 230,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

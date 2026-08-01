@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2066566094958256590",
+    "created_at": "2026-06-15T23:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T00:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066666777078268304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1384831606276476930",
+          "start": 0,
+          "username": "Xxx_kkkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066666777078268304",
+    "in_reply_to_user_id": "1384831606276476930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066566094958256590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxx_kkkl 我大的不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066566088985559040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3q6KbaQAAZwsE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2066566094958256590",
+        "created_at": "2026-06-15T23:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066666777078268304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1384831606276476930",
+              "start": 0,
+              "username": "Xxx_kkkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066666777078268304",
+        "in_reply_to_user_id": "1384831606276476930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066566094958256590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxx_kkkl 我大的不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066566088985559040"
+          ]
+        },
+        "author_id": "1384831606276476930",
+        "conversation_id": "2066566094958256590",
+        "created_at": "2026-06-15T16:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066566094958256590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCrNUFcrPD",
+              "end": 43,
+              "expanded_url": "https://x.com/Xxx_kkkl/status/2066566094958256590/photo/1",
+              "media_key": "3_2066566088985559040",
+              "start": 20,
+              "url": "https://t.co/uCrNUFcrPD"
+            },
+            {
+              "display_url": "x.com/nonentity_xxx1…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/nonentity_xxx17/status/2066530094408159587",
+              "start": 44,
+              "url": "https://t.co/FavyDLhL60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066566094958256590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066530094408159587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看似健全实则天天吃思诺思胡言乱语睡大觉 https://t.co/uCrNUFcrPD https://t.co/FavyDLhL60"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2912,
+          "following_count": 436,
+          "like_count": 1099,
+          "listed_count": 4,
+          "media_count": 223,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-21T11:29:28.000Z",
+        "description": "一个违背道德良知的神棍。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/MFy5tkgAMP"
+              }
+            ]
+          }
+        },
+        "id": "1384831606276476930",
+        "name": "Jahseh 🆁🅲（4.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066401126182981632/EqAfAy5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 111,
+          "like_count": 57,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/MFy5tkgAMP",
+        "username": "Xxx_kkkl",
+        "verified": false
+      }
+    ]
+  }
+}

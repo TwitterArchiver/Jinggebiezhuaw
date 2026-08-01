@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055192733019721728",
+        "3_2055192733053329408",
+        "3_2055192733049065473",
+        "3_2055192733040656384"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "conversation_id": "2055192740552651118",
+    "created_at": "2026-05-15T07:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055192740552651118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KuQzfYShGR",
+          "end": 35,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055192740552651118/photo/1",
+          "media_key": "3_2055192733019721728",
+          "start": 12,
+          "url": "https://t.co/KuQzfYShGR"
+        },
+        {
+          "display_url": "pic.x.com/KuQzfYShGR",
+          "end": 35,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055192740552651118/photo/1",
+          "media_key": "3_2055192733053329408",
+          "start": 12,
+          "url": "https://t.co/KuQzfYShGR"
+        },
+        {
+          "display_url": "pic.x.com/KuQzfYShGR",
+          "end": 35,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055192740552651118/photo/1",
+          "media_key": "3_2055192733049065473",
+          "start": 12,
+          "url": "https://t.co/KuQzfYShGR"
+        },
+        {
+          "display_url": "pic.x.com/KuQzfYShGR",
+          "end": 35,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055192740552651118/photo/1",
+          "media_key": "3_2055192733040656384",
+          "start": 12,
+          "url": "https://t.co/KuQzfYShGR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055192740552651118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇塞oksana这么美 https://t.co/KuQzfYShGR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055192733019721728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWC5tya0AAe8hH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055192733053329408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWC5t6boAARM36.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055192733049065473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWC5t5akAEE0ZO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055192733040656384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWC5t3aQAAkoaG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055192733019721728",
+            "3_2055192733053329408",
+            "3_2055192733049065473",
+            "3_2055192733040656384"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2055192740552651118",
+        "created_at": "2026-05-15T07:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055192740552651118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KuQzfYShGR",
+              "end": 35,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055192740552651118/photo/1",
+              "media_key": "3_2055192733019721728",
+              "start": 12,
+              "url": "https://t.co/KuQzfYShGR"
+            },
+            {
+              "display_url": "pic.x.com/KuQzfYShGR",
+              "end": 35,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055192740552651118/photo/1",
+              "media_key": "3_2055192733053329408",
+              "start": 12,
+              "url": "https://t.co/KuQzfYShGR"
+            },
+            {
+              "display_url": "pic.x.com/KuQzfYShGR",
+              "end": 35,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055192740552651118/photo/1",
+              "media_key": "3_2055192733049065473",
+              "start": 12,
+              "url": "https://t.co/KuQzfYShGR"
+            },
+            {
+              "display_url": "pic.x.com/KuQzfYShGR",
+              "end": 35,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055192740552651118/photo/1",
+              "media_key": "3_2055192733040656384",
+              "start": 12,
+              "url": "https://t.co/KuQzfYShGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055192740552651118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇塞oksana这么美 https://t.co/KuQzfYShGR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2401,
+          "following_count": 368,
+          "like_count": 814,
+          "listed_count": 5,
+          "media_count": 174,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

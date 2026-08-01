@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2081064810180219379",
+    "created_at": "2026-07-26T06:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081271058741796964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2005276268145868800",
+          "start": 0,
+          "username": "NanyL_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081271058741796964",
+    "in_reply_to_user_id": "2005276268145868800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081064810180219379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanyL_1 我也是🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2081064810180219379].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2081064810180219379",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2081064810180219379"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2081064810180219379",
+        "created_at": "2026-07-26T06:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081271058741796964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2005276268145868800",
+              "start": 0,
+              "username": "NanyL_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081271058741796964",
+        "in_reply_to_user_id": "2005276268145868800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081064810180219379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanyL_1 我也是🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。RC售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3503,
+          "following_count": 261,
+          "like_count": 1569,
+          "listed_count": 5,
+          "media_count": 182,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-28T13:55:03.000Z",
+        "description": "我恨君生早｜\n这个字念难\n很好说话和可以随意互粉 屁话很多 哎呀我管你那么多只要不骂王洪文我们都是好朋友",
+        "id": "2005276268145868800",
+        "location": "王洪文中南海办公室地下室床上",
+        "name": "難",
+        "pinned_tweet_id": "2011856362792476776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069752903619772417/8vxdPQtn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 347,
+          "like_count": 15422,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 4700
+        },
+        "url": "",
+        "username": "NanyL_1",
+        "verified": false
+      }
+    ]
+  }
+}

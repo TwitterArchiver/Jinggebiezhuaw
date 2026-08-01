@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055117207844360192",
+        "3_2055117207835975681"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055117214202855533",
+    "created_at": "2026-05-15T02:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T03:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055117214202855533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1816489710682030080",
+          "start": 0,
+          "username": "keaiiea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NLV5zzixxt",
+          "end": 60,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055117214202855533/photo/1",
+          "media_key": "3_2055117207844360192",
+          "start": 37,
+          "url": "https://t.co/NLV5zzixxt"
+        },
+        {
+          "display_url": "pic.x.com/NLV5zzixxt",
+          "end": 60,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055117214202855533/photo/1",
+          "media_key": "3_2055117207835975681",
+          "start": 37,
+          "url": "https://t.co/NLV5zzixxt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055117214202855533",
+    "in_reply_to_user_id": "1816489710682030080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@keaiiea 大家看好了，这个男婊子要是下个月没给我爆金币我就四爱他 https://t.co/NLV5zzixxt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055117207844360192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIU-NklbEAA9FFZ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055117207835975681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIU-NkjbIAELkwg.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055117207844360192",
+            "3_2055117207835975681"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055117214202855533",
+        "created_at": "2026-05-15T02:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055117214202855533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816489710682030080",
+              "start": 0,
+              "username": "keaiiea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NLV5zzixxt",
+              "end": 60,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055117214202855533/photo/1",
+              "media_key": "3_2055117207844360192",
+              "start": 37,
+              "url": "https://t.co/NLV5zzixxt"
+            },
+            {
+              "display_url": "pic.x.com/NLV5zzixxt",
+              "end": 60,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2055117214202855533/photo/1",
+              "media_key": "3_2055117207835975681",
+              "start": 37,
+              "url": "https://t.co/NLV5zzixxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055117214202855533",
+        "in_reply_to_user_id": "1816489710682030080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@keaiiea 大家看好了，这个男婊子要是下个月没给我爆金币我就四爱他 https://t.co/NLV5zzixxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2401,
+          "following_count": 368,
+          "like_count": 814,
+          "listed_count": 5,
+          "media_count": 173,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea2",
+                "start": 0,
+                "url": "https://t.co/tkjVWJfXs4"
+              }
+            ]
+          }
+        },
+        "id": "1816489710682030080",
+        "name": "J0N45",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040970131346718720/QxA0zX1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 442,
+          "like_count": 27006,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 2520
+        },
+        "url": "https://t.co/tkjVWJfXs4",
+        "username": "keaiiea",
+        "verified": false
+      }
+    ]
+  }
+}

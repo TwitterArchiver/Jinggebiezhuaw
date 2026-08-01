@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057261353807777793",
+        "3_2057261353803665409"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "conversation_id": "2057261361957388480",
+    "created_at": "2026-05-21T00:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T01:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057261361957388480"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zfYovof531",
+          "end": 102,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2057261361957388480/photo/1",
+          "media_key": "3_2057261353807777793",
+          "start": 79,
+          "url": "https://t.co/zfYovof531"
+        },
+        {
+          "display_url": "pic.x.com/zfYovof531",
+          "end": 102,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2057261361957388480/photo/1",
+          "media_key": "3_2057261353803665409",
+          "start": 79,
+          "url": "https://t.co/zfYovof531"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057261361957388480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊让我们用盛大的广告词欢迎您的到来和离去但在这整个过程中您只能被我们拍扁在T恤上并眼睁睁的看着这一切发生而且您也应该知道其实这些早就和您没有任何的什么关系了 https://t.co/zfYovof531"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057261353807777793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzcTSvaEAEb1ay.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057261353803665409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzcTSubUAEQVH1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057261353807777793",
+            "3_2057261353803665409"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2057261361957388480",
+        "created_at": "2026-05-21T00:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057261361957388480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfYovof531",
+              "end": 102,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2057261361957388480/photo/1",
+              "media_key": "3_2057261353807777793",
+              "start": 79,
+              "url": "https://t.co/zfYovof531"
+            },
+            {
+              "display_url": "pic.x.com/zfYovof531",
+              "end": 102,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2057261361957388480/photo/1",
+              "media_key": "3_2057261353803665409",
+              "start": 79,
+              "url": "https://t.co/zfYovof531"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057261361957388480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊让我们用盛大的广告词欢迎您的到来和离去但在这整个过程中您只能被我们拍扁在T恤上并眼睁睁的看着这一切发生而且您也应该知道其实这些早就和您没有任何的什么关系了 https://t.co/zfYovof531"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2522,
+          "following_count": 407,
+          "like_count": 894,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

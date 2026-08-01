@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2070189451046011305",
+    "created_at": "2026-06-26T01:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T02:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070314976468963691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980572743230795776",
+          "start": 0,
+          "username": "zake96279450728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070314976468963691",
+    "in_reply_to_user_id": "1980572743230795776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070189451046011305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zake96279450728 美丽美丽"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20166,
+        "height": 1280,
+        "media_key": "13_2070189382645215233",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070189382645215233/img/sdCodOfXQ7OgDDXL.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070189382645215233/vid/avc1/320x630/vBx7EjdJMJd128Om.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070189382645215233/vid/avc1/480x944/zJLF1_Tx3O5fEHZo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070189382645215233/vid/avc1/650x1280/4vF_P3cgUkVydqrX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070189382645215233/pl/SvK0ptEOth37XvUS.m3u8"
+          }
+        ],
+        "width": 650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2070189451046011305",
+        "created_at": "2026-06-26T01:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070314976468963691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980572743230795776",
+              "start": 0,
+              "username": "zake96279450728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070314976468963691",
+        "in_reply_to_user_id": "1980572743230795776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070189451046011305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zake96279450728 美丽美丽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070189382645215233"
+          ]
+        },
+        "author_id": "1980572743230795776",
+        "conversation_id": "2070189451046011305",
+        "created_at": "2026-06-25T16:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070189451046011305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CQwHLZvXZ",
+              "end": 27,
+              "expanded_url": "https://x.com/zake96279450728/status/2070189451046011305/video/1",
+              "media_key": "13_2070189382645215233",
+              "start": 4,
+              "url": "https://t.co/1CQwHLZvXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070189451046011305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我腐烂 https://t.co/1CQwHLZvXZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3116,
+          "following_count": 448,
+          "like_count": 1127,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 809
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T09:52:09.000Z",
+        "description": "🏳️‍⚧️𖦹MTX𖦹pan𖦹",
+        "id": "1980572743230795776",
+        "location": "-2.1km",
+        "name": "知心姐姐于大爷",
+        "pinned_tweet_id": "2055929956010754477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069354975722164224/5sgwn2f5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 195,
+          "like_count": 2595,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "zake96279450728",
+        "verified": false
+      }
+    ]
+  }
+}

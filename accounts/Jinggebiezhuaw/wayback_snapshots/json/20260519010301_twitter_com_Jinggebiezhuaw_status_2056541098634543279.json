@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056541086844399616",
+        "3_2056541086844428288",
+        "3_2056541086856982528"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "conversation_id": "2056541098634543279",
+    "created_at": "2026-05-19T01:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T02:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056541098634543279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 60,
+          "id": "1816489710682030080",
+          "start": 52,
+          "username": "keaiiea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tn1eBUKRDo",
+          "end": 84,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2056541098634543279/photo/1",
+          "media_key": "3_2056541086844399616",
+          "start": 61,
+          "url": "https://t.co/tn1eBUKRDo"
+        },
+        {
+          "display_url": "pic.x.com/tn1eBUKRDo",
+          "end": 84,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2056541098634543279/photo/1",
+          "media_key": "3_2056541086844428288",
+          "start": 61,
+          "url": "https://t.co/tn1eBUKRDo"
+        },
+        {
+          "display_url": "pic.x.com/tn1eBUKRDo",
+          "end": 84,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2056541098634543279/photo/1",
+          "media_key": "3_2056541086856982528",
+          "start": 61,
+          "url": "https://t.co/tn1eBUKRDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056541098634543279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从今天开始oksana就要给jonas当女朋友了。但我们两个是全推特最假的情侣，大家注意识别，不要相信。@keaiiea https://t.co/tn1eBUKRDo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056541086844399616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpNOPNbMAAuZgA.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056541086844428288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpNOPNboAAgwCD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2056541086856982528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpNOPQbMAAytNR.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056541086844399616",
+            "3_2056541086844428288",
+            "3_2056541086856982528"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2056541098634543279",
+        "created_at": "2026-05-19T01:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056541098634543279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1816489710682030080",
+              "start": 52,
+              "username": "keaiiea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tn1eBUKRDo",
+              "end": 84,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2056541098634543279/photo/1",
+              "media_key": "3_2056541086844399616",
+              "start": 61,
+              "url": "https://t.co/tn1eBUKRDo"
+            },
+            {
+              "display_url": "pic.x.com/tn1eBUKRDo",
+              "end": 84,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2056541098634543279/photo/1",
+              "media_key": "3_2056541086844428288",
+              "start": 61,
+              "url": "https://t.co/tn1eBUKRDo"
+            },
+            {
+              "display_url": "pic.x.com/tn1eBUKRDo",
+              "end": 84,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2056541098634543279/photo/1",
+              "media_key": "3_2056541086856982528",
+              "start": 61,
+              "url": "https://t.co/tn1eBUKRDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056541098634543279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从今天开始oksana就要给jonas当女朋友了。但我们两个是全推特最假的情侣，大家注意识别，不要相信。@keaiiea https://t.co/tn1eBUKRDo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 395,
+          "like_count": 851,
+          "listed_count": 4,
+          "media_count": 188,
+          "tweet_count": 627
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea2",
+                "start": 0,
+                "url": "https://t.co/tkjVWJfXs4"
+              }
+            ]
+          }
+        },
+        "id": "1816489710682030080",
+        "name": "J0N45",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040970131346718720/QxA0zX1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 427,
+          "like_count": 27333,
+          "listed_count": 3,
+          "media_count": 479,
+          "tweet_count": 2561
+        },
+        "url": "https://t.co/tkjVWJfXs4",
+        "username": "keaiiea",
+        "verified": false
+      }
+    ]
+  }
+}

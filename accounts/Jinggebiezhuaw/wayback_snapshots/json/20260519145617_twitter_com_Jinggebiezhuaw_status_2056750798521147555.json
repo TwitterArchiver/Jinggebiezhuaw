@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2056750798521147555",
+    "created_at": "2026-05-19T14:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056750798521147555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ahalfhediboy/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/ahalfhediboy/status/2054244666564821303",
+          "start": 13,
+          "url": "https://t.co/VB8M4UQn2C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056750798521147555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054244666564821303",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来个小美女和我兄弟推推爱 https://t.co/VB8M4UQn2C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1570,
+        "media_key": "3_2054244663914082304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIko1JXMAAmEXp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2056750798521147555",
+        "created_at": "2026-05-19T14:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056750798521147555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ahalfhediboy/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/ahalfhediboy/status/2054244666564821303",
+              "start": 13,
+              "url": "https://t.co/VB8M4UQn2C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056750798521147555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054244666564821303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来个小美女和我兄弟推推爱 https://t.co/VB8M4UQn2C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054244663914082304"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2054244666564821303",
+        "created_at": "2026-05-12T16:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054244666564821303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7cbPNvTEfV",
+              "end": 32,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2054244666564821303/photo/1",
+              "media_key": "3_2054244663914082304",
+              "start": 9,
+              "url": "https://t.co/7cbPNvTEfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054244666564821303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1296,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还原美貌的一集（ https://t.co/7cbPNvTEfV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2513,
+          "following_count": 406,
+          "like_count": 881,
+          "listed_count": 4,
+          "media_count": 191,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 478,
+          "like_count": 5618,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1656
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

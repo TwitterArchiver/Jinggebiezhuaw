@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080329509317062659",
+        "3_2080329509291896832"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "conversation_id": "2080329516422213950",
+    "created_at": "2026-07-23T16:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080329516422213950"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/urA4FiX7NC",
+          "end": 132,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2080329516422213950/photo/1",
+          "media_key": "3_2080329509317062659",
+          "start": 109,
+          "url": "https://t.co/urA4FiX7NC"
+        },
+        {
+          "display_url": "pic.x.com/urA4FiX7NC",
+          "end": 132,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2080329516422213950/photo/1",
+          "media_key": "3_2080329509291896832",
+          "start": 109,
+          "url": "https://t.co/urA4FiX7NC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080329516422213950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在如下图这种天气：无敌暴雨加紫色闪电的情况下，迷幻蘑菇联用了很变态的美国萨提瓦，居然没岔道，强忍着精神不适感生生压下来。我现在想想觉得自己太牛逼了，幻觉大得人畜不分雌雄莫辨也没岔道走远……致幻剂圣体Oksana…… https://t.co/urA4FiX7NC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080329509317062659",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7QqqqbMAMtx8l.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080329509291896832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7QqqkbMAAq7x4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080329509317062659",
+            "3_2080329509291896832"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2080329516422213950",
+        "created_at": "2026-07-23T16:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080329516422213950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/urA4FiX7NC",
+              "end": 132,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2080329516422213950/photo/1",
+              "media_key": "3_2080329509317062659",
+              "start": 109,
+              "url": "https://t.co/urA4FiX7NC"
+            },
+            {
+              "display_url": "pic.x.com/urA4FiX7NC",
+              "end": 132,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2080329516422213950/photo/1",
+              "media_key": "3_2080329509291896832",
+              "start": 109,
+              "url": "https://t.co/urA4FiX7NC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080329516422213950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在如下图这种天气：无敌暴雨加紫色闪电的情况下，迷幻蘑菇联用了很变态的美国萨提瓦，居然没岔道，强忍着精神不适感生生压下来。我现在想想觉得自己太牛逼了，幻觉大得人畜不分雌雄莫辨也没岔道走远……致幻剂圣体Oksana…… https://t.co/urA4FiX7NC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "女，黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。RC售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3479,
+          "following_count": 469,
+          "like_count": 1408,
+          "listed_count": 5,
+          "media_count": 206,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

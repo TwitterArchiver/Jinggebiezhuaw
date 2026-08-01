@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077690416967954432"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "conversation_id": "2077690435607335191",
+    "created_at": "2026-07-16T09:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077690435607335191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pRBlltjsNR",
+          "end": 29,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2077690435607335191/video/1",
+          "media_key": "13_2077690416967954432",
+          "start": 6,
+          "url": "https://t.co/pRBlltjsNR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077690435607335191",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神秘原料子 https://t.co/pRBlltjsNR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7178,
+        "height": 720,
+        "media_key": "13_2077690416967954432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077690416967954432/img/9LLsUo8gkoum-mix.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077690416967954432/vid/avc1/360x270/nogUbl-t0zDzSEu9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077690416967954432/vid/avc1/480x360/LrUUlcCh5CtClrGu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077690416967954432/vid/avc1/960x720/Ok8bqTK95juBjR1K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077690416967954432/pl/g81C_7ntx1iWLnV0.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077690416967954432"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2077690435607335191",
+        "created_at": "2026-07-16T09:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077690435607335191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRBlltjsNR",
+              "end": 29,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2077690435607335191/video/1",
+              "media_key": "13_2077690416967954432",
+              "start": 6,
+              "url": "https://t.co/pRBlltjsNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077690435607335191",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘原料子 https://t.co/pRBlltjsNR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，黑长直性恋，精神分裂确诊，导演系在读。非典型化学推，合法不列管策划药售卖/化学物质使用咨询💊。我的名字读作奥克萨娜 不是OK娑娜。\n闺蜜：@godspeedyou50、 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQFbLQ"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3378,
+          "following_count": 463,
+          "like_count": 1218,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/Mj09WQFbLQ",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}

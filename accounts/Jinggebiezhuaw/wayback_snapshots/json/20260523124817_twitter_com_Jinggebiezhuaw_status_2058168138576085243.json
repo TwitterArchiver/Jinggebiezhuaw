@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058168131831689216"
+      ]
+    },
+    "author_id": "1830934925769613334",
+    "conversation_id": "2058168138576085243",
+    "created_at": "2026-05-23T12:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058168138576085243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hREpJYJWo9",
+          "end": 38,
+          "expanded_url": "https://x.com/Jinggebiezhuaw/status/2058168138576085243/photo/1",
+          "media_key": "3_2058168131831689216",
+          "start": 15,
+          "url": "https://t.co/hREpJYJWo9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058168138576085243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "生长纹的性癖什么时候可以普及 https://t.co/hREpJYJWo9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2058168131831689216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAVAuHbcAAJVqc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058168131831689216"
+          ]
+        },
+        "author_id": "1830934925769613334",
+        "conversation_id": "2058168138576085243",
+        "created_at": "2026-05-23T12:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058168138576085243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hREpJYJWo9",
+              "end": 38,
+              "expanded_url": "https://x.com/Jinggebiezhuaw/status/2058168138576085243/photo/1",
+              "media_key": "3_2058168131831689216",
+              "start": 15,
+              "url": "https://t.co/hREpJYJWo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058168138576085243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生长纹的性癖什么时候可以普及 https://t.co/hREpJYJWo9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "女，长头发性恋，精神分裂确诊，导演系在读，精神意大利人，非典型支黑，非典型化学推，喜欢跟小男娘玩。 我的名字读作奥克萨娜 不是OK娑娜。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/McxnWOqV5m"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "1991449358647325050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 412,
+          "like_count": 940,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 688
+        },
+        "url": "https://t.co/McxnWOqV5m",
+        "username": "Jinggebiezhuaw",
+        "verified": false
+      }
+    ]
+  }
+}
