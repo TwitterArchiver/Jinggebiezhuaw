@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1830934925769613334",
+    "conversation_id": "2084286522946412606",
+    "created_at": "2026-08-03T17:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084336308814782844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029585628074262528",
+          "start": 0,
+          "username": "Serinda_Aqua"
+        },
+        {
+          "end": 25,
+          "id": "2044813899816402944",
+          "start": 14,
+          "username": "gzgzgzgzds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084336308814782844",
+    "in_reply_to_user_id": "2029585628074262528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084336136688963951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Serinda_Aqua @gzgzgzgzds 啊对对！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830934925769613334",
+        "conversation_id": "2084286522946412606",
+        "created_at": "2026-08-03T17:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084336308814782844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029585628074262528",
+              "start": 0,
+              "username": "Serinda_Aqua"
+            },
+            {
+              "end": 25,
+              "id": "2044813899816402944",
+              "start": 14,
+              "username": "gzgzgzgzds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084336308814782844",
+        "in_reply_to_user_id": "2029585628074262528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084336136688963951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serinda_Aqua @gzgzgzgzds 啊对对！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029585628074262528",
+        "conversation_id": "2084286522946412606",
+        "created_at": "2026-08-03T17:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084336136688963951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830934925769613334",
+              "start": 0,
+              "username": "Jinggebiezhuaw"
+            },
+            {
+              "end": 27,
+              "id": "2044813899816402944",
+              "start": 16,
+              "username": "gzgzgzgzds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084336136688963951",
+        "in_reply_to_user_id": "1830934925769613334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084310864384168002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jinggebiezhuaw @gzgzgzgzds 图纸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-03T11:45:04.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我是奥克萨娜（养号中！），黑长直性恋，精神分裂确诊，做导演的。非典型化学推，启灵物质狂信徒。化学物质使用咨询💊。魔界大门入口：@Oksana222RC\n已婚 @Nonentity_xxx17",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "Oksana222RC"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Nonentity_xxx17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/Mj09WQEDWi"
+              }
+            ]
+          }
+        },
+        "id": "1830934925769613334",
+        "location": "Tokyo-to, Japan",
+        "name": "Oksana💊",
+        "pinned_tweet_id": "2064158937000358141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3548,
+          "following_count": 273,
+          "like_count": 1799,
+          "listed_count": 5,
+          "media_count": 179,
+          "tweet_count": 820
+        },
+        "url": "https://t.co/Mj09WQEDWi",
+        "username": "Jinggebiezhuaw",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-05T15:52:08.000Z",
+        "description": "碎碎恋推 | 精神病患者吐黑泥之地\n发🔞裸照只是爱好展示身材并非发骚\n💊⁺✞ ʚ精品神药重度依赖⁺ɞ✟🩸\n严重ADHD/bpd 谨慎了解",
+        "id": "2029585628074262528",
+        "location": "🚪 88好友位",
+        "name": "水色歌",
+        "pinned_tweet_id": "2046054018888470756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073355526004785152/wb4mFXEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 182,
+          "like_count": 3610,
+          "listed_count": 15,
+          "media_count": 162,
+          "tweet_count": 1546
+        },
+        "url": "",
+        "username": "Serinda_Aqua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T16:23:25.000Z",
+        "description": "世界上的音乐是听不完的",
+        "id": "2044813899816402944",
+        "name": "p2p",
+        "pinned_tweet_id": "2082504334823305655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080517065236992000/-myqCHEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 298,
+          "like_count": 1545,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 458
+        },
+        "url": "",
+        "username": "gzgzgzgzds",
+        "verified": false
+      }
+    ]
+  }
+}
